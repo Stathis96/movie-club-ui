@@ -1,0 +1,127 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "John Wick",
+      "genres": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Parasite",
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "434",
+      "title": "John Wick",
+      "genres": [
+        "Action",
+        "Thriller"
+      ]
+    },
+    {
+      "id": "380",
+      "title": "enadiotria",
+      "genres": [
+        "Sci-fi",
+        "Action"
+      ]
+    },
+    {
+      "id": "643",
+      "title": "NASIAEE",
+      "genres": [
+        "Sci-fi",
+        "Comedy"
+      ]
+    },
+    {
+      "id": "874",
+      "title": ";;;",
+      "genres": [
+        "Sci-fi"
+      ]
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "title": "Stathis Ioannidis",
+      "DateOfBirth": "14/02/96",
+      "Registration": "07/07/2021"
+    },
+    {
+      "id": 2,
+      "title": "Nikos Nikolaidis",
+      "DateOfBirth": "04/08/1994",
+      "Registration": "05/04/2021"
+    },
+    {
+      "id": 3,
+      "title": "Giorgos Georgiou",
+      "DateOfBirth": "20/04/1992",
+      "Registration": "05/05/2021"
+    },
+    {
+      "id": 4,
+      "title": "Tasos Papadopoulos",
+      "DateOfBirth": "14/06/1990",
+      "Registration": "04/04/2021"
+    },
+    {
+      "id": "7",
+      "title": "rackatacck",
+      "DateOfBirth": "1996-12-12",
+      "Registration": "2021-08-09"
+    },
+    {
+      "id": "9",
+      "title": "hh",
+      "DateOfBirth": "2021-07-03",
+      "Registration": "2021-07-10"
+    },
+    {
+      "id": "5",
+      "title": "trelrelrtle",
+      "DateOfBirth": "2021-07-03",
+      "Registration": "2021-07-10"
+    },
+    {
+      "id": "10",
+      "title": "asddad",
+      "DateOfBirth": "2021-07-22",
+      "Registration": "2021-06-30"
+    },
+    {
+      "id": "86669812",
+      "title": "neosuser",
+      "DateOfBirth": "2021-07-10",
+      "Registration": "2021-07-13"
+    }
+  ],
+  "rentals": [
+    {
+      "id": 1,
+      "memberId": 1,
+      "movieId": 1,
+      "date": "2020/01/03"
+    },
+    {
+      "id": 3,
+      "memberId": 3,
+      "movieId": 2,
+      "date": "2020/07/11"
+    },
+    {
+      "id": 4826,
+      "movieId": 2,
+      "memberId": 2,
+      "date": "2021/07/26"
+    }
+  ]
+}
